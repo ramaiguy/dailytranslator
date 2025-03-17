@@ -1,0 +1,5 @@
+The quick brown fox jumps over the lazy dog. This is a simple text file that we can use to test our translation service. It contains a few sentences of varying lengths and complexity.
+
+Machine learning involves computers discovering how they can perform tasks without being explicitly programmed to do so. It involves computers learning from data provided so that they can carry out certain tasks.
+
+For simple tasks assigned to computers, it is possible to program algorithms telling the machine how to execute all steps required to solve the problem; on the computer's part, no learning is needed.

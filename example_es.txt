@@ -1,0 +1,3 @@
+El rápido zorro marrón salta sobre el perro perezoso.
+Este es un archivo de texto simple que podemos usar para probar nuestro servicio de traducción.
+[UNTRANSLATED: It contains a few sentences of varying lengths and complexity.][UNTRANSLATED: Machine learning involves computers discovering how they can perform tasks without being explicitly programmed to do so.][UNTRANSLATED: It involves computers learning from data provided so that they can carry out certain tasks.][UNTRANSLATED: For simple tasks assigned to computers, it is possible to program algorithms telling the machine how to execute all steps required to solve the problem; on the computer's part, no learning is needed.]
